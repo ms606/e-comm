@@ -1,0 +1,5 @@
+npm init ** on the main root 
+
+npm install express	
+
+npm install @babel/cli @babel/core @babel/node @babel/preset-env nodemon --save-dev
