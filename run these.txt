@@ -9,3 +9,5 @@ npm install @babel/cli @babel/core @babel/node @babel/preset-env nodemon --save-
 npm install axios
 ** in front end folder
 npm install  redux react-redux
+** in front end folder
+npm install redux-thunk
