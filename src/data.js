@@ -8,7 +8,8 @@ export default {
 		price: 100,
 		brand: 'Pakistan',
 		rating:4.5,
-		numReviews: 10
+        numReviews: 10,
+        description: 'Organic Gur has been bought from the farms of Mardan'
 	},
 	{	
 		_id: '002',
